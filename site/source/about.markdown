@@ -12,4 +12,4 @@ url: "/about/"
 
 `OpooPress` Blogging Framework is a ...
 
-The website address is [${site.title}](${site.url})
+The website address is [${site.title}](${site.url}) .
