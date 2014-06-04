@@ -53,10 +53,10 @@
 # ----------------------- #
 
 locale: zh_CN
-url: http://sample.opoo.info
-title: 我的 OpooPress 博客
+url: http://linuno.opoo.info
+title: 我的 Opoo Pages 博客
 subtitle: 又一个 OpooPress.com 站点
-author: 您的姓名
+author: Lin.uno
 simple_search: http://google.com/search
 description: "OpooPress 博客系统是一个基于 Java 的静态博客（网站）生成器。"
 keywords: "OpooPress, 博客"
