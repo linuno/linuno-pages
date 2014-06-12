@@ -1,4 +1,4 @@
-opoopages-sample
+opoopages
 ================
 
-OpooPages sample project. 
+Opoo Pages site. 
